@@ -1,1 +1,2 @@
-# Bank-Management-Application
+The Bank Management Application is a console-based project developed using Core Java, designed to perform basic banking operations such as creating customer accounts, depositing and withdrawing money, checking balances, and viewing account details. It demonstrates the application of key Java concepts like object-oriented programming (OOP), file handling, and exception management to simulate real-world banking scenarios. Data is stored using text files, and functionalities are built through modular classes for better code organization. The project helps in understanding CRUD operations, control structures, and Java I/O streams, offering a practical foundation for building more advanced systems with GUI or database integration in the future.
+
